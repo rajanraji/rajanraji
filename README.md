@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @rajanraji
-- 👀 I’m interested in Web3 and Blockchain and Agentic AI
-- 🌱 I’m currently learning a mixed bag of codes.
+Hi, I am learning and exploring. Always
 
 
 
